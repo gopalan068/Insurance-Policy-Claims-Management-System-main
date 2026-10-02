@@ -1,0 +1,25 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Node
+node_modules/
+dist/
+
+# Vite
+.vite/
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
